@@ -2,7 +2,7 @@
 This simple "hello.cs" script creates GUI interface on Windows without any IDE installed.  This was tested on Windows 10 with Microsoft .NET Framework 4.5.2 installed.
 
 ## Requirements
-* Microsoft .NET Framework
+* [Microsoft .NET Framework](https://www.microsoft.com/net/download/framework)
 * Text editor
 
 
